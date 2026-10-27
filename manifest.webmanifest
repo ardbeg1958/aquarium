@@ -1,0 +1,2 @@
+{"name":"アクアリウム","short_name":"アクアリウム","description":"ゆったり眺めるアクアリウム。タップでテーマを切り替えます。","start_url":"./","scope":"./","display":"fullscreen","background_color":"#0b4a7a","theme_color":"#0b4a7a","lang":"ja",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
